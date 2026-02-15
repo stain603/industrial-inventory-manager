@@ -174,7 +174,7 @@ Inventory_Project/
 - `DELETE /product-materials/{id}` - Delete relationship
 - `GET /product-materials/product/{productId}` - Get materials for a specific product
  
-## 🧪 Testing
+##  Testing
  
 ### Frontend Tests
 ```bash
@@ -188,7 +188,7 @@ cd back-end
 ./mvnw test
 ```
  
-## 🔧 Configuration
+##  Configuration
  
 ### Environment Variables
  
@@ -212,7 +212,7 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
  
 The application is configured to allow requests from `http://localhost:5173` (the default frontend development server). This can be modified in `CorsConfig.java`.
  
-## 📊 Database Schema
+##  Database Schema
  
 ### Products Table
 - `id` (Long, Primary Key)
@@ -234,7 +234,7 @@ The application is configured to allow requests from `http://localhost:5173` (th
 - `raw_material_id` (Long, Foreign Key)
 - `quantityRequired` (BigDecimal)
  
-## 🐛 Troubleshooting
+##  Troubleshooting
  
 ### Common Issues
  
@@ -263,21 +263,17 @@ The application is configured to allow requests from `http://localhost:5173` (th
      ```
  
 
-## 🚀 Future Enhancements
+## system in action
  
-- [ ] User authentication and authorization
-- [ ] Advanced reporting and analytics
-- [ ] Barcode/QR code scanning
-- [ ] Email notifications for low stock
-- [ ] Mobile app version
-- [ ] Multi-warehouse support
-- [ ] Supplier management
-- [ ] Purchase order management
-- [ ] Audit logging
-- [ ] Data export/import functionality
- 
+<img width="1262" height="765" alt="image" src="https://github.com/user-attachments/assets/7f13deae-0d61-48f5-b369-2a8eed87e01d" />
+
 ---
- 
+<img width="1212" height="837" alt="image" src="https://github.com/user-attachments/assets/fb115669-b216-48d3-886b-f5749d72ac69" />
+
+---
+<img width="1136" height="848" alt="image" src="https://github.com/user-attachments/assets/92ed23e2-c16d-4e48-bff5-e4ca4c934f6d" />
+
+
 **Built with ❤️ using modern web technologies**
  
 
