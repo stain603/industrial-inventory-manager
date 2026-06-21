@@ -2,7 +2,7 @@
  
 A comprehensive full-stack inventory management system built with React, TypeScript, Spring Boot, and PostgreSQL. This application provides efficient management of products, raw materials, and production planning with a modern, responsive interface.
  
-## 🚀 Features
+##  Features
  
 ### Core Functionality
 - **Product Management**: Create, read, update, and delete products with pricing and material requirements
@@ -38,7 +38,7 @@ A comprehensive full-stack inventory management system built with React, TypeScr
 - **Jackson** - JSON processing
 - **Spring Web** - REST API framework
  
-## 📋 Prerequisites
+##  Prerequisites
  
 Before running this application, ensure you have the following installed:
  
@@ -47,7 +47,7 @@ Before running this application, ensure you have the following installed:
 - **PostgreSQL** (v12 or higher)
 - **Maven** (3.6 or higher) - or use the included Maven wrapper
  
-## 🗄️ Database Setup
+##  Database Setup
  
 1. **Install PostgreSQL** on your system
 2. **Create a database**:
@@ -60,7 +60,7 @@ Before running this application, ensure you have the following installed:
    GRANT ALL PRIVILEGES ON DATABASE inventory_db TO postgres;
    ```
  
-## 🚀 Quick Start
+##  Quick Start
  
 ### 1. Clone the Repository
 ```bash
@@ -116,7 +116,7 @@ The frontend will start on `http://localhost:5173`
  
 Open your browser and navigate to `http://localhost:5173`
  
-## 📁 Project Structure
+##  Project Structure
  
 ```
 Inventory_Project/
@@ -147,7 +147,7 @@ Inventory_Project/
     └── vite.config.ts
 ```
  
-## 🔌 API Endpoints
+##  API Endpoints
  
 ### Products
 - `GET /products` - Get all products
@@ -265,16 +265,19 @@ The application is configured to allow requests from `http://localhost:5173` (th
 
 ## system in action
  
-<img width="1262" height="765" alt="image" src="https://github.com/user-attachments/assets/7f13deae-0d61-48f5-b369-2a8eed87e01d" />
+<img width="1262" height="765" alt="image" src="<img width="1342" height="952" alt="image" src="https://github.com/user-attachments/assets/4c769000-d46b-46da-86a8-b704720140f0" />
+" />
 
 ---
-<img width="1212" height="837" alt="image" src="https://github.com/user-attachments/assets/fb115669-b216-48d3-886b-f5749d72ac69" />
+<img width="1212" height="837" alt="image" src="<img width="1333" height="955" alt="image" src="https://github.com/user-attachments/assets/419a29cf-c09c-41a9-abb6-31cfd7a2755b" />
+" />
 
 ---
-<img width="1136" height="848" alt="image" src="https://github.com/user-attachments/assets/92ed23e2-c16d-4e48-bff5-e4ca4c934f6d" />
+<img width="1136" height="848" alt="image" src="<img width="1344" height="954" alt="image" src="https://github.com/user-attachments/assets/9649dcc1-a151-4be2-8483-5441174a0e41" />
+" />
 
 
-**Built with ❤️ using modern web technologies**
+**Built with using modern web technologies**
  
 
 Perfect! I've created a comprehensive README.md file for your
