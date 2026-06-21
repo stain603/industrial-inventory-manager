@@ -19,7 +19,7 @@ A comprehensive full-stack inventory management system built with React, TypeScr
 - **CORS Support**: Proper cross-origin resource sharing configuration
 - **Modern UI**: Clean, intuitive interface with smooth interactions
  
-## 🛠️ Tech Stack
+##  Tech Stack
  
 ### Frontend
 - **React 18** - Modern UI library with hooks
